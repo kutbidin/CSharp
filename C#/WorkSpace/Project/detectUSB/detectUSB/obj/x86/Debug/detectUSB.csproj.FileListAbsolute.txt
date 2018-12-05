@@ -1,0 +1,7 @@
+D:\Programming\C#\WorkSpace\Project\detectUSB\detectUSB\bin\Debug\detectUSB.exe
+D:\Programming\C#\WorkSpace\Project\detectUSB\detectUSB\bin\Debug\detectUSB.pdb
+D:\Programming\C#\WorkSpace\Project\detectUSB\detectUSB\obj\x86\Debug\detectUSB.Form1.resources
+D:\Programming\C#\WorkSpace\Project\detectUSB\detectUSB\obj\x86\Debug\detectUSB.Properties.Resources.resources
+D:\Programming\C#\WorkSpace\Project\detectUSB\detectUSB\obj\x86\Debug\detectUSB.csproj.GenerateResource.Cache
+D:\Programming\C#\WorkSpace\Project\detectUSB\detectUSB\obj\x86\Debug\detectUSB.exe
+D:\Programming\C#\WorkSpace\Project\detectUSB\detectUSB\obj\x86\Debug\detectUSB.pdb
