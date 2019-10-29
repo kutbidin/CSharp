@@ -1,0 +1,16 @@
+D:\WorkSpace\C#\ServerAPP\ServerAPP\obj\Debug\ServerAPP.csprojAssemblyReference.cache
+D:\WorkSpace\C#\ServerAPP\ServerAPP\obj\Debug\ServerAPP.Properties.Resources.resources
+D:\WorkSpace\C#\ServerAPP\ServerAPP\obj\Debug\ServerAPP.Server.resources
+D:\WorkSpace\C#\ServerAPP\ServerAPP\obj\Debug\ServerAPP.csproj.GenerateResource.cache
+D:\WorkSpace\C#\ServerAPP\ServerAPP\obj\Debug\ServerAPP.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C#\ServerAPP\ServerAPP\bin\Debug\ServerAPP.exe.config
+D:\WorkSpace\C#\ServerAPP\ServerAPP\bin\Debug\ServerAPP.exe
+D:\WorkSpace\C#\ServerAPP\ServerAPP\bin\Debug\ServerAPP.pdb
+D:\WorkSpace\C#\ServerAPP\ServerAPP\bin\Debug\ATMInfoProvider.dll
+D:\WorkSpace\C#\ServerAPP\ServerAPP\bin\Debug\ATMInfoProvider.pdb
+D:\WorkSpace\C#\ServerAPP\ServerAPP\obj\Debug\ServerAPP.csproj.CopyComplete
+D:\WorkSpace\C#\ServerAPP\ServerAPP\obj\Debug\ServerAPP.exe
+D:\WorkSpace\C#\ServerAPP\ServerAPP\obj\Debug\ServerAPP.pdb
+D:\WorkSpace\C#\Releases\ServerAPP\ServerAPP.exe.config
+D:\WorkSpace\C#\Releases\ServerAPP\ServerAPP.exe
+D:\WorkSpace\C#\Releases\ServerAPP\ServerAPP.pdb

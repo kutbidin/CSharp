@@ -1,0 +1,16 @@
+D:\WorkSpace\C#\ServerAPP\MonitorAPP\bin\Debug\MonitorAPP.exe.config
+D:\WorkSpace\C#\ServerAPP\MonitorAPP\bin\Debug\MonitorAPP.exe
+D:\WorkSpace\C#\ServerAPP\MonitorAPP\bin\Debug\MonitorAPP.pdb
+D:\WorkSpace\C#\ServerAPP\MonitorAPP\bin\Debug\ATMInfoProvider.dll
+D:\WorkSpace\C#\ServerAPP\MonitorAPP\bin\Debug\ATMInfoProvider.pdb
+D:\WorkSpace\C#\ServerAPP\MonitorAPP\obj\Debug\MonitorAPP.csprojAssemblyReference.cache
+D:\WorkSpace\C#\ServerAPP\MonitorAPP\obj\Debug\MonitorAPP.Monitor.resources
+D:\WorkSpace\C#\ServerAPP\MonitorAPP\obj\Debug\MonitorAPP.Properties.Resources.resources
+D:\WorkSpace\C#\ServerAPP\MonitorAPP\obj\Debug\MonitorAPP.csproj.GenerateResource.cache
+D:\WorkSpace\C#\ServerAPP\MonitorAPP\obj\Debug\MonitorAPP.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C#\ServerAPP\MonitorAPP\obj\Debug\MonitorAPP.csproj.CopyComplete
+D:\WorkSpace\C#\ServerAPP\MonitorAPP\obj\Debug\MonitorAPP.exe
+D:\WorkSpace\C#\ServerAPP\MonitorAPP\obj\Debug\MonitorAPP.pdb
+D:\WorkSpace\C#\Releases\ServerAPP\MonitorAPP.exe.config
+D:\WorkSpace\C#\Releases\ServerAPP\MonitorAPP.exe
+D:\WorkSpace\C#\Releases\ServerAPP\MonitorAPP.pdb

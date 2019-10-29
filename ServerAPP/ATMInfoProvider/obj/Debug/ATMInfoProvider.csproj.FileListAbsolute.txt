@@ -1,0 +1,5 @@
+D:\WorkSpace\C#\ServerAPP\ATMInfoProvider\bin\Debug\ATMInfoProvider.dll
+D:\WorkSpace\C#\ServerAPP\ATMInfoProvider\bin\Debug\ATMInfoProvider.pdb
+D:\WorkSpace\C#\ServerAPP\ATMInfoProvider\obj\Debug\ATMInfoProvider.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C#\ServerAPP\ATMInfoProvider\obj\Debug\ATMInfoProvider.dll
+D:\WorkSpace\C#\ServerAPP\ATMInfoProvider\obj\Debug\ATMInfoProvider.pdb

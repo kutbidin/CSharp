@@ -1,0 +1,8 @@
+D:\WorkSpace\C#\ServerAPP\ATMInfoProvider\bin\Debug\ATMInfoProvider.dll
+D:\WorkSpace\C#\ServerAPP\ATMInfoProvider\bin\Debug\ATMInfoProvider.pdb
+D:\WorkSpace\C#\ServerAPP\ATMInfoProvider\obj\Debug\ATM.Cacher.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C#\ServerAPP\ATMInfoProvider\obj\Debug\ATMInfoProvider.dll
+D:\WorkSpace\C#\ServerAPP\ATMInfoProvider\obj\Debug\ATMInfoProvider.pdb
+D:\WorkSpace\C#\Releases\ServerAPP\ATMInfoProvider.dll
+D:\WorkSpace\C#\Releases\ServerAPP\ATMInfoProvider.pdb
+D:\WorkSpace\C#\ServerAPP\ATMInfoProvider\obj\Debug\ATM.Cacher.csprojAssemblyReference.cache
